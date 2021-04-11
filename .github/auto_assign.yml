@@ -5,7 +5,7 @@ addAssignees: author
 # Reviewer must have admin permission
 reviewers: 
   - KamalDGRT
-#  - Manoj-Paramsetti
+  - Manoj-Paramsetti
  # - Reviewer 2
 
 skipKeywords:
