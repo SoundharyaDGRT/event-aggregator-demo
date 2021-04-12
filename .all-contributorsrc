@@ -5,34 +5,7 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
-    {
-      "login": "javeed3157",
-      "name": "SHAIK JAVEED SUHAIL",
-      "avatar_url": "https://avatars.githubusercontent.com/u/73298565?v=4",
-      "profile": "https://personal-portfolio-git-master-javeed3157.vercel.app/",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "KamalDGRT",
-      "name": "Kamal Sharma",
-      "avatar_url": "https://avatars.githubusercontent.com/u/43444282?v=4",
-      "profile": "https://www.linkedin.com/in/kamaldgrt/",
-      "contributions": [
-        "doc",
-        "code"
-      ]
-    },
-    {
-      "login": "Manoj-Paramsetti",
-      "name": "Manoj Paramsetti",
-      "avatar_url": "https://avatars.githubusercontent.com/u/39455174?v=4",
-      "profile": "https://manoj-paramsetti.github.io/",
-      "contributions": [
-        "code"
-      ]
-    }
+ 
   ],
   "contributorsPerLine": 7,
   "projectName": "event-aggregator-demo",
