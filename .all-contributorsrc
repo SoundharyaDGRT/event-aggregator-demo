@@ -5,7 +5,17 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
- 
+    {
+      "login": "KamalDGRT",
+      "name": "Kamal Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43444282?v=4",
+      "profile": "https://www.linkedin.com/in/kamaldgrt/",
+      "contributions": [
+        "doc",
+        "code",
+        "maintenance"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "event-aggregator-demo",

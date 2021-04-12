@@ -4,12 +4,8 @@ This repository contains the simple working design of the Event-Aggregator platf
 
 ## Our Contributors
 
-[CONTRIBUTORS.md](https://github.com/KamalDGRT/event-aggregator-demo/blob/master/CONTRIBUTORS.md)
+[CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ## Code of Conduct
 
-You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
-
-## Just making a small change for PR test.
-
-## 2nd Attempt...
+You can find our Code of Conduct [here](CODE_OF_CONDUCT.md).
