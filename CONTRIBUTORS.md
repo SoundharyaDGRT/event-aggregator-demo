@@ -10,7 +10,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/kamaldgrt/"><img src="https://avatars.githubusercontent.com/u/43444282?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kamal Sharma</b></sub></a><br /><a href="https://github.com/KamalDGRT/gitbasics/commits?author=KamalDGRT" title="Code">💻</a> <a href="https://github.com/KamalDGRT/gitbasics/commits?author=KamalDGRT" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/kamaldgrt/"><img src="https://avatars.githubusercontent.com/u/43444282?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kamal Sharma</b></sub></a><br /><a href="https://github.com/KamalDGRT/event-aggregator-demo/commits?author=KamalDGRT" title="Code">💻</a> <a href="https://github.com/KamalDGRT/event-aggregator-demo/commits?author=KamalDGRT" title="Documentation">📖</a></td>
   </tr>
 </table>
 
