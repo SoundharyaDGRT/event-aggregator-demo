@@ -23,6 +23,15 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "Manoj-Paramsetti",
+      "name": "Manoj Paramsetti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39455174?v=4",
+      "profile": "https://manoj-paramsetti.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
