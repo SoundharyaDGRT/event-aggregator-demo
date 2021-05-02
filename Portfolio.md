@@ -287,7 +287,7 @@ composer update
 php yii migrate
 ```
 
-![Step 14.1](https://i.imgur.com/wYtx5M4.png)
+![Step 14.1](https://i.imgur.com/ClpegDO.png)
 
 -   After that it will ask:
 
@@ -297,17 +297,17 @@ Apply the above migrations? (yes|no) [no]:
 
 -   Type `yes`.
 
-![Step 14.2](https://i.imgur.com/oabwBw3.png)
+![Step 14.2](https://i.imgur.com/o4beFIZ.png)
 
 -   This is how it will look once the migrations are applied.
 
-![Step 14.3](https://i.imgur.com/3nLuPla.png)
+![Step 14.3](https://i.imgur.com/KHKlk6j.png)
 
 -   For us it shows two migrations because we started this documentation when the project was
     freshly initiated. So for you guys it will have more than two migrations.
 -   To verify that the tables are created go to the `phpMyAdmin` homepage.
 
-![Step 14.4](https://i.imgur.com/Eu1tDYM.png)
+![Step 14.4](https://i.imgur.com/rZMPUzg.png)
 
 -   When you see the project's database, you can see that it has created some tables for us.
 -   The `migrations` keeps tracks of all the database related stuff that we have done so far.
@@ -320,11 +320,11 @@ Apply the above migrations? (yes|no) [no]:
 -   Right click on the `httpd-vhosts.conf` file.
 -   Open that file using `VS Code`.
 
-![Step 15.1](https://i.imgur.com/I7mbBu5.png)
+![Step 15.1](https://i.imgur.com/SxoIhut.png)
 
 -   This is how the file looks like.
 
-![Step 15.2](https://i.imgur.com/vYZqrS0.png)
+![Step 15.2](https://i.imgur.com/LCAxpTR.png)
 
 ### Step 16: Setting up the First Virtual Host: _localhost_
 
