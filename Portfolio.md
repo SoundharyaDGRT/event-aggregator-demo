@@ -490,13 +490,13 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 127.0.0.1      dsc-eventag.kanika
 ```
 
-![Step 19.1](https://i.imgur.com/S2dJjHc.png)
+![Step 19.1](https://i.imgur.com/iQ7Ap70.png)
 
 -   Save it.
 -   When you try to save it there will be pop-up on the bottom-right corner.
 -   Click on the `Retry as Admin` button in that pop-up.
 
-![Step 19.2](https://i.imgur.com/8RAPSkv.png)
+![Step 19.2](https://i.imgur.com/CAnyDM1.png)
 
 -   Wait for few seconds.
 -   There will be an another pop-up from the Command Prompt.
@@ -504,13 +504,13 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 -   And now the `hosts` file is saved.
 -   The command prompt popup may or may not appear for everyone.
 
-![Step 19.3](https://i.imgur.com/SDdgWYy.png)
+![Step 19.3](https://i.imgur.com/Q5WN3Sn.png)
 
 ### Step 20: Restarting the _Apache_ server
 
 -   Stop the `Apache` server in the `Xampp` Control Panel.
 
-![Step 20.1](https://i.imgur.com/mpuygIJ.png)
+![Step 20.1]()
 
 -   Start the `Apache` server in the `Xampp` Control Panel.
 
@@ -534,7 +534,7 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 -   Press Enter.
 -   I am able to see the default `Yii2` Congratulations page; but for you guys it will be something else.
 
-![Step 21.1](https://i.imgur.com/4lrtAqH.png)
+![Step 21.1](https://i.imgur.com/1oPXCpf.png)
 
 -   The next time when you want to exeucte the project, you should do it with the newly created URL.
 
