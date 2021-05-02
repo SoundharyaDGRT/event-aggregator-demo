@@ -432,9 +432,9 @@ DocumentRoot "C:\<your folder>\xampp\htdocs\<name>-yii2-portfolio"
 ```xml
 <VirtualHost *:80>
 ServerName dsc-eventag.kanika
-DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-portfolio"
+DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 
-    <Directory "C:\SOUNDHARYA\xampp\htdocs\kanika-Event-Aggregator">
+    <Directory "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio">
         # use mod_rewrite for pretty URL support
         RewriteEngine on
         # If a directory or a file exists, use the request directly
@@ -456,7 +456,7 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-portfolio"
 </VirtualHost>
 ```
 
-![Step 17.1](https://i.imgur.com/iRR6fq4.png)
+![Step 17.1](https://i.imgur.com/x9RJyuf.png)
 
 -   We add these lines to let the `Apache` server know that when we enter the URL given in the `ServerName`, it should present us with the output of the code present in `DocumentRoot` folder.
 
