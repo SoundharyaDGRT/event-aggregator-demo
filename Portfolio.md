@@ -139,13 +139,13 @@ C:\<your folder>\xampp
 C:\<your folder>\xampp\apache\conf\
 ```
 
--   In my case it will be: `C:\LEO\xampp\apache\conf\` .
+-   In my case it will be: `C:\SOUNDHARYA\xampp\apache\conf\` .
 -   First just single click on the `extra` folder.
 -   Right click on the `extra` folder.
 -   Click on the `Send to`.
 -   Choose the `Desktop (create shortcut)`.
 
-![Step 06](https://i.imgur.com/AucZqwE.png)
+![Step 06](https://i.imgur.com/rvSx8IC.png)
 
 ### Step 7: Creating shortcut for _etc_ folder
 
@@ -162,7 +162,7 @@ Hopefully, the above location will be the same for all the Windows users.
 -   Click on the `Send to`.
 -   Choose the `Desktop (create shortcut)`.
 
-![Step 07](https://i.imgur.com/lFayQYX.png)
+![Step 07](https://i.imgur.com/oxy0qjb.png)
 
 ### Step 8: Moving the new shortcuts to _Hosts_ folder
 
