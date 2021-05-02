@@ -324,7 +324,7 @@ Apply the above migrations? (yes|no) [no]:
 
 -   This is how the file looks like.
 
-![Step 15.2](https://i.imgur.com/LCAxpTR.png)
+![Step 15.2](https://i.imgur.com/PBAJHSw.png)
 
 ### Step 16: Setting up the First Virtual Host: _localhost_
 
@@ -388,19 +388,19 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs"
 </VirtualHost>
 ```
 
-![Step 16.1](https://i.imgur.com/Sr7ARd5.png)
+![Step 16](https://i.imgur.com/lFExlnA.png)
 
 -   Save the file.
 -   We are adding the above lines to allow us to run the normal `PHP` project/stuff.
 -   By normal I mean, without any framework.
 
-### Step 17: Setting up the Second Virtual Host: _dsc-eventag.kanika_
+### Step 17: Setting up the Second Virtual Host: _yii2-portfolio.soudharya_
 
 -   Add these at the end of the `httpd-vhosts.conf` file.
 
 ```xml
 <VirtualHost *:80>
-ServerName dsc-eventag.<your name>
+ServerName yii2-portfolio.<your name>
 DocumentRoot "C:\<your folder>\xampp\htdocs\<name>-yii2-portfolio"
 
     <Directory "C:\<your folder>\xampp\htdocs\<name>-yii2-portfolio">
@@ -431,7 +431,7 @@ DocumentRoot "C:\<your folder>\xampp\htdocs\<name>-yii2-portfolio"
 
 ```xml
 <VirtualHost *:80>
-ServerName dsc-eventag.kanika
+ServerName yii2-portfolio.soundharya
 DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 
     <Directory "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio">
@@ -456,7 +456,7 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 </VirtualHost>
 ```
 
-![Step 17.1](https://i.imgur.com/x9RJyuf.png)
+![Step 17](https://i.imgur.com/XSzPZB3.png)
 
 -   We add these lines to let the `Apache` server know that when we enter the URL given in the `ServerName`, it should present us with the output of the code present in `DocumentRoot` folder.
 
@@ -468,11 +468,11 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 -   Right click on the `hosts` file.
 -   Open that file using `VS Code`.
 
-![Step 18.1](https://i.imgur.com/4BjgV3z.png)
+![Step 18.1](https://i.imgur.com/ooMbD2W.png)
 
 -   The `hosts` file will look like this:
 
-![Step 18.2](https://i.imgur.com/UoTHO50.png)
+![Step 18.2](https://i.imgur.com/txpyKFT.png)
 
 ### Step 19: Adding the URLs for the Virtual Host
 
