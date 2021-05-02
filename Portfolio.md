@@ -129,7 +129,7 @@ C:\<your folder>\xampp
 -   Click on the `Send to`.
 -   Choose the `Desktop (create shortcut)`.
 
-![Step 05](https://i.imgur.com/ZWhlJIv.png)
+![Step 05](https://i.imgur.com/4tqfK0t.png)
 
 ### Step 6: Creating shortcut for _extra_ folder
 
