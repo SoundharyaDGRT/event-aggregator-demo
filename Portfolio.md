@@ -215,19 +215,19 @@ I will be creating the `soundharya_portfolio` database for my fork of the [Kamal
 php init
 ```
 
-![Step 11.1](https://i.imgur.com/bvBr273.png)
+![Step 11.1](https://i.imgur.com/HLqwOnC.png)
 
 -   Press `0` for the `Development mode`.
 
-![Step 11.2](https://i.imgur.com/Qs4q9JA.png)
+![Step 11.2](https://i.imgur.com/mepa9tw.png)
 
 -   Type `yes` to confirm that you are building the template in `Development mode`.
 
-![Step 11.3](https://i.imgur.com/Eg4Iepr.png)
+![Step 11.3](https://i.imgur.com/pPVqmv7.png)
 
 -   This will generate some files for us.
 
-![Step 11.4](https://i.imgur.com/z45oXKg.png)
+![Step 11.4](https://i.imgur.com/kSKiQuK.png)
 
 ### Step 12: Informing the framework regarding the database change
 
@@ -246,15 +246,15 @@ C:\LEO\xampp\htdocs\kanika-Event-Aggregator\common\config\main-local.php
 -   Since we have already opened this project folder in `VS code` I'll be navigating through
     the files in the `VS code's` sidebar and change the database name in that file.
 
-![Step 12.1](https://i.imgur.com/akkXYJy.png)
+![Step 12.1](https://i.imgur.com/4wpbqQI.png)
 
 -   i.e. `dbname=<newly created database name>`
 -   The name should be same as the one that you created in [Step 10](#step-10-creating-the-database-for-the-project).
 -   Replace `<newly created database name>` with the database name that you have created 
     in [Step 10](#step-10-creating-the-database-for-the-project).
--   In my case I will be giving it as `kanika_dscevent`.
+-   In my case I will be giving it as `soundharya_portfolio`.
 
-![Step 12.2](https://i.imgur.com/sj5SWVW.png)
+![Step 12.2](https://i.imgur.com/Vht7u0D.png)
 
 -   We are doing this step to let the `Yii2` know that we are going to use that database for the project.
 
@@ -266,18 +266,18 @@ C:\LEO\xampp\htdocs\kanika-Event-Aggregator\common\config\main-local.php
 composer update
 ```
 
-![Step 13.1](https://i.imgur.com/98Iw6BE.png)
+![Step 13.1](https://i.imgur.com/fgmLGFq.png)
 
 -   This will bring us the packages that are needed to execute the code.
 -   It is similar to the node-modules involved in a JavaScript project.
 -   This is how it will look when the `composer` collects the dependent packages.
 
-![Step 13.2](https://i.imgur.com/pAc1Amf.png)
+![Step 13.2](https://i.imgur.com/vsCdMEa.png)
 
 -   This might take some time depending on your internet speed.
 -   This is how it will look once it's done.
 
-![Step 13.3](https://i.imgur.com/vI0MOAC.png)
+![Step 13.3](https://i.imgur.com/sXVbbGm.png)
 
 ### Step 14: Applying the _migrations_
 
