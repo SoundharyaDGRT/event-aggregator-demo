@@ -480,14 +480,14 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 
 ```
 127.0.0.1      localhost
-127.0.0.1      dsc-eventag.<your name>
+127.0.0.1      yii2-portfolio.<your name>
 ```
 
 -   In my case it will be like this:
 
 ```
 127.0.0.1      localhost
-127.0.0.1      dsc-eventag.kanika
+127.0.0.1      yii2-portfolio.soundharya
 ```
 
 ![Step 19.1](https://i.imgur.com/iQ7Ap70.png)
@@ -510,15 +510,15 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 
 -   Stop the `Apache` server in the `Xampp` Control Panel.
 
-![Step 20.1]()
+![Step 20.1](https://i.imgur.com/L03AuxG.png)
 
 -   Start the `Apache` server in the `Xampp` Control Panel.
 
-![Step 20.2](https://i.imgur.com/8raPGdR.png)
+![Step 20.2](https://i.imgur.com/Amgyjb0.png)
 
 -   After starting the server it will look like this:
 
-![Step 20.3](https://i.imgur.com/FPtriSL.png)
+![Step 20.3](https://i.imgur.com/iFfiQMa.png)
 
 -   We are doing this because:
     -   We modified the content of a file which is present inside `apache` folder.
@@ -529,8 +529,8 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 -   Now open your browser.
 -   Type the URL that we added in the `httpd-vhosts.conf` file in the address bar along with
     the `http://` in the front.
--   Like this: `http://dsc-eventag.<your name>`
--   For me it will be `http://dsc-eventag.kanika`
+-   Like this: `http://yii2-portfolio.<your name>`
+-   For me it will be `http://yii2-portfolio.soundharya`
 -   Press Enter.
 -   I am able to see the default `Yii2` Congratulations page; but for you guys it will be something else.
 
