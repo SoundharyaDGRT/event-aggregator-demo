@@ -472,7 +472,7 @@ DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-yii2-portfolio"
 
 -   The `hosts` file will look like this:
 
-![Step 18.2](https://i.imgur.com/txpyKFT.png)
+![Step 18.2](https://i.imgur.com/v18MFoG.png)
 
 ### Step 19: Adding the URLs for the Virtual Host
 
