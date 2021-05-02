@@ -172,24 +172,24 @@ Hopefully, the above location will be the same for all the Windows users.
     `Hosts` folder.
 -   The `Hosts` folder has been mentioned in [Step 3](#step-3-creating-the-hosts-folder).
 
-![Step 08](https://i.imgur.com/Vag2Oa1.png)
+![Step 08](https://i.imgur.com/Hy7PHVh.png)
 
 ### Step 9: Starting the Xampp servers
 
 -   Start the `Apache` and `MySQL` servers in the `Xampp Control Panel`.
 -   Click on the `Admin` of `MySQL` to open up the `phpMyAdmin` page.
 
-![Step 9.1](https://i.imgur.com/3wL1LKQ.png)
+![Step 9.1](https://i.imgur.com/ewHt4ko.png)
 
 -   The `phpMyAdmin` page will look something like this:
 
-![Step 9.2](https://i.imgur.com/4SQbZV3.png)
+![Step 9.2](https://i.imgur.com/fJ3Glg1.png)
 
 ### Step 10: Creating the database for the project
 
 -   Each `Yii2` project will be associated with a database.
 -   We will be storing the tables there.
--   So, lets create the database for your fork of the [DSC-SIST/Event-Aggregator](https://github.com/KamalDGRT/yii2-portfolio) repository.
+-   So, lets create the database for your fork of the [KamalDGRT/yii2-portfolio](https://github.com/KamalDGRT/yii2-portfolio) repository.
 -   Have the database name in this format:
 
 ```
@@ -198,13 +198,13 @@ Hopefully, the above location will be the same for all the Windows users.
 
 **_For example:_**
 
-I will be creating the `soundharya_portfolio` database for my fork of the [DSC-SIST/Event-Aggregator](https://github.com/KamalDGRT/yii2-portfolio) repo.
+I will be creating the `soundharya_portfolio` database for my fork of the [KamalDGRT/yii2-portfolio](https://github.com/KamalDGRT/yii2-portfolio) repo.
 
-![Step 10.1](https://i.imgur.com/9FwoEnj.png)
+![Step 10.1](https://i.imgur.com/E1IgEGb.png)
 
 -   The newly created database will look something like this:
 
-![Step 10.2](https://i.imgur.com/8NKJGzA.png)
+![Step 10.2](https://i.imgur.com/JW6FWjY.png)
 
 ### Step 11: Initializing the framework in _Development_ mode
 
