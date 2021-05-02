@@ -358,15 +358,15 @@ DocumentRoot "C:\<your folder>\xampp\htdocs"
 ```
 
 -   Replace `<your-folder>` with the name that you have given while installing `Xampp`.
--   In my case I have installed it to `C:\LEO\xampp`.
+-   In my case I have installed it to `C:\SOUNDHARYA\xampp`.
 -   So my virtual host configuration will look like this:
 
 ```xml
 <VirtualHost *:80>
 ServerName localhost
-DocumentRoot "C:\LEO\xampp\htdocs"
+DocumentRoot "C:\SOUNDHARYA\xampp\htdocs"
 
-    <Directory "C:\LEO\xampp\htdocs">
+    <Directory "C:\SOUNDHARYA\xampp\htdocs">
         # use mod_rewrite for pretty URL support
         RewriteEngine on
         # If a directory or a file exists, use the request directly
@@ -401,9 +401,9 @@ DocumentRoot "C:\LEO\xampp\htdocs"
 ```xml
 <VirtualHost *:80>
 ServerName dsc-eventag.<your name>
-DocumentRoot "C:\<your folder>\xampp\htdocs\<name>-Event-Aggregator"
+DocumentRoot "C:\<your folder>\xampp\htdocs\<name>-yii2-portfolio"
 
-    <Directory "C:\<your folder>\xampp\htdocs\<name>-Event-Aggregator">
+    <Directory "C:\<your folder>\xampp\htdocs\<name>-yii2-portfolio">
         # use mod_rewrite for pretty URL support
         RewriteEngine on
         # If a directory or a file exists, use the request directly
@@ -432,9 +432,9 @@ DocumentRoot "C:\<your folder>\xampp\htdocs\<name>-Event-Aggregator"
 ```xml
 <VirtualHost *:80>
 ServerName dsc-eventag.kanika
-DocumentRoot "C:\LEO\xampp\htdocs\kanika-Event-Aggregator"
+DocumentRoot "C:\SOUNDHARYA\xampp\htdocs\soundharya-portfolio"
 
-    <Directory "C:\LEO\xampp\htdocs\kanika-Event-Aggregator">
+    <Directory "C:\SOUNDHARYA\xampp\htdocs\kanika-Event-Aggregator">
         # use mod_rewrite for pretty URL support
         RewriteEngine on
         # If a directory or a file exists, use the request directly
@@ -456,7 +456,7 @@ DocumentRoot "C:\LEO\xampp\htdocs\kanika-Event-Aggregator"
 </VirtualHost>
 ```
 
-![Step 17.1](https://i.imgur.com/YUADaRK.png)
+![Step 17.1](https://i.imgur.com/iRR6fq4.png)
 
 -   We add these lines to let the `Apache` server know that when we enter the URL given in the `ServerName`, it should present us with the output of the code present in `DocumentRoot` folder.
 
