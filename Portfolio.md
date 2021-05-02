@@ -105,7 +105,7 @@ Install the tools in this particular order.
 
 -   Create a folder in `Desktop` with the name `Hosts`.
 
-![Step 03](https://i.imgur.com/ry9Pxmr.png)
+![Step 03](https://i.imgur.com/dUQKLmL.png)
 
 ### Step 4: Opening the Xampp Installation folder
 
@@ -120,7 +120,7 @@ you would have installed over here:
 C:\<your folder>\xampp
 ```
 
-![Step 04](https://i.imgur.com/51CuOaS.png)
+![Step 04](https://i.imgur.com/y93thLy.png)
 
 ### Step 5: Creating shortcut for _htdocs_ folder
 
