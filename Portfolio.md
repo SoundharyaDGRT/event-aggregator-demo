@@ -84,22 +84,22 @@ Install the tools in this particular order.
 ![Step 2.1](https://i.imgur.com/fMPLlYt.png)
 
 -   Step 2.2: Clone your fork inside the `htdocs` folder of the `Xampp` installation.
-    -   In my case the `htdocs` folder is present in `C:\LEO\xampp\htdocs`.
+    -   In my case the `htdocs` folder is present in `C:\SOUNDHARYA\xampp\htdocs`.
 
-![Step 2.2](https://i.imgur.com/7QYk8fp.png)
+![Step 2.2](https://i.imgur.com/vuY75Rb.png)
 
--   Step 2.3: Rename the cloned folder in this format: `<your-name>-Event-Aggregator`.
-    -   In my case, I'll be renaming the folder to: `kanika-Event-Aggregator`.
+-   Step 2.3: Rename the cloned folder in this format: `<your-name>-yii2-portfolio`.
+    -   In my case, I'll be renaming the folder to: `soundharya-yii2-portfolio`.
 
-![Step 2.3](https://i.imgur.com/LE1KBBO.png)
+![Step 2.3](https://i.imgur.com/930aGY2.png)
 
 -   Step 2.4: After renaming, open the folder using `Visual Studio Code`.
 
-![Step 2.4](https://i.imgur.com/TPqihfx.png)
+![Step 2.4](https://i.imgur.com/jYLltr6.png)
 
 -   Step 2.5: After opening in `VS code`, it will look something like this:
 
-![Step 2.5](https://i.imgur.com/8oZF5ui.png)
+![Step 2.5](https://i.imgur.com/gqSY0BP.png)
 
 ### Step 3: Creating the _Hosts_ folder
 
@@ -198,7 +198,7 @@ Hopefully, the above location will be the same for all the Windows users.
 
 **_For example:_**
 
-I will be creating the `kanika_dscevent` database for my fork of the [DSC-SIST/Event-Aggregator](https://github.com/KamalDGRT/yii2-portfolio) repo.
+I will be creating the `soundharya_portfolio` database for my fork of the [DSC-SIST/Event-Aggregator](https://github.com/KamalDGRT/yii2-portfolio) repo.
 
 ![Step 10.1](https://i.imgur.com/9FwoEnj.png)
 
